@@ -1,0 +1,14 @@
+#EEEEEEEEEEE    -VVv         -VVv    III-     DDDDD`        EEEEEEEEEEEE     `NNN`      NNN      TTTTTTTTTTTT
+#EEEEEEEEEEE     /VV+       .VVv     III-     `:DDDDD`      EEEEEEEEEEEE     `NNNN`     NNN      TTTTTTTTTTTT
+#                 +VV:     `vVv`     III-         -DDD`                      `NNNNN\    NNN          ....   
+#EEEEEEEE          vVV-   `vVv`      III-          .DD+     EEEEEEEEE        `NNN +Nn   \NN          TTT-    
+#EEEEEEEE           vVV.  vVv.       III-          .DD+     EEEEEEEEE        `NNN  -Nn.  `N          TTT-    
+#                   `VVv` -v-        III-         .DDD`                      `NNN   `Nn`  `          TTT-    
+#EEEEEEEEEEE         .VVv  `         III-     .:+DDDD`      EEEEEEEEEEEE     `NNN     \Nn`           TTT-    
+#EEEEEEEEEEE          -VVv           III-     DDDD/.        EEEEEEEEEEEE     `NNN      `NNn          TTT-   
+
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.itsevident.com/sitemap.xml
