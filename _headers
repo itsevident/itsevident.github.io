@@ -4,4 +4,3 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
-  Content-Security-Policy: default-src itsevident.com cloud.typography.com typography.com google-analytics.com formspree.io netlify.com
