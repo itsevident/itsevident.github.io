@@ -1,2 +1,4 @@
-
 /feedback https://forms.office.com/Pages/ResponsePage.aspx?id=kT6Cw9vF1kyU84vOZ7Qdeh9s0XYK05hCoMeDGM6ACodUMzVDMEdXSTJZTlZPUFNCQ0xMU0xKUzVFOS4u
+
+# Redirect default Netlify subdomain to primary domain
+https://evident.netlify.com/* https://www.itsevident.com/:splat 301!
