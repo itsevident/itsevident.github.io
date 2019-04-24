@@ -1,0 +1,35 @@
+EEEEEEEEEEE    -VVv         -VVv    III-     DDDDD`        EEEEEEEEEEEE     `NNN`      NNN      TTTTTTTTTTTT
+EEEEEEEEEEE     /VV+       .VVv     III-     `:DDDDD`      EEEEEEEEEEEE     `NNNN`     NNN      TTTTTTTTTTTT
+                 +VV:     `vVv`     III-         -DDD`                      `NNNNN\    NNN          ....   
+EEEEEEEE          vVV-   `vVv`      III-          .DD+     EEEEEEEEE        `NNN +Nn   \NN          TTT-    
+EEEEEEEE           vVV.  vVv.       III-          .DD+     EEEEEEEEE        `NNN  -Nn.  `N          TTT-    
+                   `VVv` -v-        III-         .DDD`                      `NNN   `Nn`  `          TTT-    
+EEEEEEEEEEE         .VVv  `         III-     .:+DDDD`      EEEEEEEEEEEE     `NNN     \Nn`           TTT-    
+EEEEEEEEEEE          -VVv           III-     DDDD/.        EEEEEEEEEEEE     `NNN      `NNn          TTT-   
+
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site.
+
+                            
+/* TEAM */
+Owner and Creator: Daniel Klotz
+Twitter: @inblueblazes
+From: Lancaster, Pennsylvania, USA
+
+Brand Development and Logo Design: Infantree
+Site: https://infantree.com/
+Twitter: @infantree
+From: Lancaster, Pennsylvania, USA
+
+
+/* THANKS */
+Inspiration: https://motherfuckingwebsite.com/
+CSS Improvements: http://bettermotherfuckingwebsite.com/
+
+                            
+/* SITE */
+Last update: 2019/04/24
+Standards: HTML5, CSS3
+Components: Typography.com (Hoefler & Co.), Formspree
+Software: Sublime Text, Visual Studio Code, Github
